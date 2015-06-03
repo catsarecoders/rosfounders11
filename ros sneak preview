@@ -1,0 +1,29 @@
+print"hello what is your name"
+name = raw_input("")
+print"hi "+name+" my name is ros and i am a rubish operating system please enter your product"
+product = raw_input("")
+
+if product == "can" :
+   print "this is a can it is recyclable but only the can not the drink"
+else:
+   print""
+
+if product == "plastic bottle":
+   print"this is a plastic bottle the only non recyclable thing in it is the drink or contense"
+else:
+   print""
+
+if product == "news paper":
+   print"this is a news paper the whole thing is completly recyclable"
+else:
+   print""
+
+if product == "milk carton":
+   print"this is a milk carton the carboard is recyclable but the milk isnt"
+else:
+   print""
+
+if product == "plastic":
+   print"this is plastic it is fully recyclable"
+else:
+   print""
